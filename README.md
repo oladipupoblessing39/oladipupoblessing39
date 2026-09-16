@@ -54,7 +54,7 @@ Savora is a savings and investment platform where customer growth was increasing
 
 The analysis identified funding to investment as the largest conversion gap, uncovered evidence of investment intent among funded non investors, and identified a potential first 30 day intervention window. I also tested assumptions about customer behaviour and investigated where investment attempts were being abandoned. Recommendations focused on improving investment completion and testing targeted engagement.
 
-[### [Savora](https://github.com/oladipupoblessing39/savora-customer-journey-analytics)
+### [Savora](https://github.com/oladipupoblessing39/savora-customer-journey-analytics)
 
 ### Avera
 
