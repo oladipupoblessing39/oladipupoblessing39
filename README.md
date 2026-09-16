@@ -71,4 +71,3 @@ The analysis found that investment products accounted for the majority of financ
 Microsoft Excel  
 SQL  
 Power BI  
-Python
